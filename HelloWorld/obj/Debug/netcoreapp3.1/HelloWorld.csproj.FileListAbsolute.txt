@@ -1,0 +1,11 @@
+C:\Users\dong6\OD 1\Academics\!OSU\AMIS3610\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+C:\Users\dong6\OD 1\Academics\!OSU\AMIS3610\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+C:\Users\dong6\OD 1\Academics\!OSU\AMIS3610\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\Users\dong6\OD 1\Academics\!OSU\AMIS3610\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\dong6\OD 1\Academics\!OSU\AMIS3610\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\dong6\OD 1\Academics\!OSU\AMIS3610\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\dong6\OD 1\Academics\!OSU\AMIS3610\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+C:\Users\dong6\OD 1\Academics\!OSU\AMIS3610\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\dong6\OD 1\Academics\!OSU\AMIS3610\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+C:\Users\dong6\OD 1\Academics\!OSU\AMIS3610\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\dong6\OD 1\Academics\!OSU\AMIS3610\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
